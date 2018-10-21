@@ -1,0 +1,24 @@
+d:\Programming\Projects\File-Manager\File-Manager\bin\Debug\File Manager WPF.exe.config
+d:\Programming\Projects\File-Manager\File-Manager\bin\Debug\File Manager WPF.exe
+d:\Programming\Projects\File-Manager\File-Manager\bin\Debug\File Manager WPF.pdb
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File-Manager.csprojAssemblyReference.cache
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\FtpClientWindow.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\ItemDetailsWindow.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\MainWindow.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\NewItemWindow.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\SearchItemWindow.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\App.g.cs
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File Manager WPF_MarkupCompile.cache
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File Manager WPF_MarkupCompile.lref
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\App.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\FtpClientWindow.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\ItemDetailsWindow.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\MainWindow.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\NewItemWindow.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\SearchItemWindow.baml
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File Manager WPF.g.resources
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File_Manager_WPF.Properties.Resources.resources
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File-Manager.csproj.GenerateResource.cache
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File-Manager.csproj.CoreCompileInputs.cache
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File Manager WPF.exe
+d:\Programming\Projects\File-Manager\File-Manager\obj\Debug\File Manager WPF.pdb
